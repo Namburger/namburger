@@ -14,6 +14,7 @@
 😄 Pronouns: nam burger
 ⚡ Fun fact: javascripts hurts my soul but I love building REST API in C++, am I weird?
 
-**Let's keep it like this until I can figure out what else to put here!**
-
+**Knowledge sharing:**
+[<img dth="500" src="https://github.com/Namburger/edgetpu-ssdlite-mobiledet-retrain/blob/master/assets/medium.png">](https://medium.com/@namvu1291/deploy-your-own-ssdlite-mobiledet-object-detector-on-google-corals-edgetpu-using-tensorflow-s-f41f1e3360c8)
+[<img dth="500" src="https://github.com/Namburger/restor/blob/master/test_data/medium.png">](https://medium.com/@namvu1291/build-your-own-budget-ai-cloud-with-googles-coral-edgetpu-technology-66854340ecd3)
 </div>
