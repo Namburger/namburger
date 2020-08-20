@@ -1,7 +1,7 @@
 ### Hi there, I'm Nam 👋
 
 <div align="center">
-  <img href="https://github.com/Namburger/edgetpu-detection-camera" src="https://github.com/Namburger/namburger/blob/master/assets/yey.gif" width="450">
+    <img src="https://github.com/Namburger/social-distancing-violator-detector/blob/master/assets/sdv_ssdlite_mobiledet_resized.gif" width="450">
 
 **Some info that github suggests that I put here:**
 
