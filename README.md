@@ -1,6 +1,7 @@
+### Hi, I'm Nam 👋
+
 <div align="center">
-    ### Hi there, I'm Nam 👋
-    
+     
     <img src="https://github.com/Namburger/social-distancing-violator-detector/blob/master/assets/sdv_ssdlite_mobiledet_resized.gif" width="450">
 
 **Some info that github suggests that I put here:**
