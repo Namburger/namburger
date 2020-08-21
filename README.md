@@ -6,10 +6,10 @@
 
 **Some info that github suggests that I put here:**
 
-🔭 I’m currently working on ... too many things
-🌱 I’m currently learning too many things... it never ends
+🔭 I’m currently working on... too many things
+🌱 I’m currently learning... too many things... it never ends
 👯 I’m looking to collaborate on anything interesting
-🤔 I’m looking for help with too many things
+🤔 I’m looking for help with... too many things
 💬 Ask me about my dog
 📫 How to reach me: namvu1291@gmail.com
 😄 Pronouns: nam burger
