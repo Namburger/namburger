@@ -3,7 +3,7 @@
 <div align="center">
      
    <img src="https://github.com/Namburger/social-distancing-violator-detector/blob/master/assets/sdv_ssdlite_mobiledet_resized.gif" width="450">
-   <img src="https://github.com/Namburger/edgetpu-detection-camera/blob/master/test_data/demo.gif" width="375">
+   <img src="https://github.com/Namburger/edgetpu-detection-camera/blob/master/test_data/demo.gif" width="350">
 
 **Some info that github suggests that I put here:**
 
