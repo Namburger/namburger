@@ -17,6 +17,4 @@
 **Knowledge sharing:**
 
 [<img width="500" src="https://github.com/Namburger/edgetpu-ssdlite-mobiledet-retrain/blob/master/assets/medium.png">](https://medium.com/@namvu1291/deploy-your-own-ssdlite-mobiledet-object-detector-on-google-corals-edgetpu-using-tensorflow-s-f41f1e3360c8)
-
-[<img width="500" src="https://github.com/Namburger/restor/blob/master/test_data/medium.png">](https://medium.com/@namvu1291/build-your-own-budget-ai-cloud-with-googles-coral-edgetpu-technology-66854340ecd3)
 </div>
