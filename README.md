@@ -19,3 +19,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Namburger/edgetpu-ssdlite-mobiledet-retrain/blob/master/ssdlite_mobiledet_transfer_learning_cat_vs_dog.ipynb)
 </div>
+
+**I also write about non tech stuffs:**
+[<img width="500" src="https://github.com/Namburger/edgetpu-ssdlite-mobiledet-retrain/blob/master/assets/human_saga1.png">](https://namburger.medium.com/the-human-saga-isolation-d789e8656095)
+</div>
