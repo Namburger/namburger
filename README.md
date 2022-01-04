@@ -2,8 +2,8 @@
 
 <div align="center">
      
-   <img src="https://github.com/Namburger/social-distancing-violator-detector/blob/master/assets/sdv_ssdlite_mobiledet_resized.gif" width="450">
-   <img src="https://github.com/Namburger/coral-cam/blob/main/demo.gif" width="777">
+   <img src="https://github.com/Namburger/social-distancing-violator-detector/blob/master/assets/sdv_ssdlite_mobiledet_resized.gif" width="777">
+   <img src="https://github.com/Namburger/coral-cam/blob/main/demo.gif" width="1000">
 
 **Some info that github suggests that I put here:**
 
